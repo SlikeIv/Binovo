@@ -1,12 +1,12 @@
 
 ## Библиотека для работы с Manager (CM) "Bnovo" (v1)
-https://swagger.sandbox.reservationsteps.ru/?urls.primaryName=%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20OTA%20-%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9#/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/auth
+[a link](https://swagger.sandbox.reservationsteps.ru/?urls.primaryName=%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20OTA%20-%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)
 
 Реализованы методы:
-  /v1/api/auth
-  /v1/api/availability
-  /v1/api/plans_data
-  /v1/api/channel_manager_bookings
+  - /v1/api/auth
+  - /v1/api/availability
+  - /v1/api/plans_data
+  - /v1/api/channel_manager_bookings
 
 
 Использование:
