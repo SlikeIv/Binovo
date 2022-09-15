@@ -3,7 +3,7 @@ namespace Slikeiv\Binovo\Exceptions;
 
 use Slikeiv\Binovo\Exceptions\BinovoException;
 
-class BinovoServerResponseException extends BinovoException {
+class BinovoServerException extends BinovoException {
 
   private $responseBody;
 

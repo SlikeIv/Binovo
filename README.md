@@ -9,6 +9,27 @@
   - /v1/api/channel_manager_bookings
 
 
+Установка:
+
+- Добавить репозиторий в composer.json проекта
+
+```json
+
+"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/SlikeIv/Binovo.git"
+        }
+    ]
+```
+
+- Установить пакет из репозитория
+
+```console
+composer require slikeiv/binovo
+```
+
+
 Использование:
 
 
