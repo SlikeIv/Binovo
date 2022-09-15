@@ -1,0 +1,18 @@
+{
+    "name": "slikeiv/binovo",
+    "description": "Binovo API",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Slikeiv\\Binovo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SlikeIv"
+        }
+    ],
+    "require": {
+       "php": ">=7.4"
+    }
+}
