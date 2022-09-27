@@ -24,12 +24,12 @@ class APIBinovo {
 	private string $baseUrl;
 
 	/**
-	 * @var string
+	 * @var string|null
 	 */
-	private string $apiToken;
+	private ?string $apiToken;
 
 
-	public function __construct(string $baseUrl,  string $apiToken=null) {
+	public function __construct(string $baseUrl,  ?string $apiToken=null) {
 		$this->baseUrl = $baseUrl;
 		$this->apiToken = $apiToken;
 	}
